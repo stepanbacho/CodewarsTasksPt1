@@ -4,5 +4,5 @@ function createPhoneNumber(x){
     let c = x.slice(6).join('');
     return `(${a}) ${b}-${c}`
 }
-let r =createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);
-console.log(r);
+// let r =createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);
+// console.log(r);
