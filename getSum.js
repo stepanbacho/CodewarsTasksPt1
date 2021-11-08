@@ -7,5 +7,5 @@ function getSum( a,b ){
     }
     return sum;
 }
-let r = getSum(0,1);
-console.log(r);
+// let r = getSum(0,1);
+// console.log(r);
