@@ -27,7 +27,7 @@ function wave(str) {
     }
     return [];
 }
-let r = wave("two words");
-console.log(r);
+// let r = wave("two words");
+// console.log(r);
 
 
